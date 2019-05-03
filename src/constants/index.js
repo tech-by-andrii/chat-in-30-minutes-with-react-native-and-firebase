@@ -1,0 +1,1 @@
+export COLLECTIONS from './collections'
