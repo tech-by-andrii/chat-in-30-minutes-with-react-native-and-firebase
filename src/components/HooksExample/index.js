@@ -22,7 +22,7 @@ export default function HooksExample () {
           dispatchMessages({ type: 'add', payload: snapshot.docs })
         })
     },
-    [false]
+    []
   )
 
   return (
